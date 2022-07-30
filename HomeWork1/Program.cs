@@ -1,7 +1,7 @@
 ﻿ Console.WriteLine ("Введите 3 числа");
- string? Console.ReadLine();
- string? Console.ReadLine();
- string? Console.ReadLine();
+ string? A = Console.ReadLine();
+ string? B = Console.ReadLine();
+ string? C = Console.ReadLine();
 
 int iuntA = int.Parse(A);
 int iuntB = int.Parse(B);
